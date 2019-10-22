@@ -1,0 +1,49 @@
+*{
+  background-color: lightblue;
+
+}
+table, tr, th, td{
+  border: solid 2px black;
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: center;
+}
+th{
+  background-color: grey;
+  color: white;
+}
+
+td.red{
+  background-color: red;
+}
+td.green{
+  background-color: green;
+}
+td.blue{
+  background-color: blue;
+}
+.seasons{
+  background-color: green;
+  color: red;
+}
+.seasons ol{
+  background-color: green;
+}
+.seasons li{
+  background-color: green;
+  list-style-type: lower-latin;
+}
+.nations{
+  background-color: grey;
+  color: red;
+}
+.nations ol{
+  background-color: grey;
+}
+.nations li{
+    background-color: grey;
+}
+td.other{
+  background-color: rgb(235, 174, 52);
+}
+td.teb_logo
